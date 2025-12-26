@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file-h5o5GvQe8n68D8U9mU8j8J?se=2025-12-26T15%3A25%3A29Z&sp=r&sv=24.12&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De8f54c9c-5192-4e4b-9701-4437640488d5.webp&sig=G9O/y1uH9fHof/7G3q3U8uH6tXy3v4I0fJk9S0/5S0Q%3D" width="100%" alt="Z3GION Salesforce Banner">
+  <img src="unnamed.jpeg" width="100%">
 </p>
+
+
 # <p align="center">⚡ Hi, I'm Z3GION ⚡</p>
 <p align="center">
-  <img src="./unnamed.jpeg" width="100%">lines=Salesforce+Developer;Python+%26+AI+Enthusiast;Automation+Architect;Full+Stack+Explorer&font=Fira+Code&center=true&width=500&height=50&color=00A1E0&vCenter=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Salesforce+Developer;Python+%26+AI+Enthusiast;Automation+Architect;Full+Stack+Explorer&font=Fira+Code&center=true&width=500&height=50&color=00A1E0&vCenter=true" />
 </p>
 
 ---
