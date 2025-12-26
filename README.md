@@ -3,7 +3,7 @@
 </p>
 # <p align="center">⚡ Hi, I'm Z3GION ⚡</p>
 <p align="center">
-  <img src="./unamed.jpeg" width="100%">lines=Salesforce+Developer;Python+%26+AI+Enthusiast;Automation+Architect;Full+Stack+Explorer&font=Fira+Code&center=true&width=500&height=50&color=00A1E0&vCenter=true" />
+  <img src="./unnamed.jpeg" width="100%">lines=Salesforce+Developer;Python+%26+AI+Enthusiast;Automation+Architect;Full+Stack+Explorer&font=Fira+Code&center=true&width=500&height=50&color=00A1E0&vCenter=true" />
 </p>
 
 ---
