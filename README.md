@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="img.png" width="100%">
-</p>
-
-
 # <p align="center">⚡ Hi, I'm Z3GION ⚡</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Salesforce+Developer;Python+%26+AI+Enthusiast;Automation+Architect;Full+Stack+Explorer&font=Fira+Code&center=true&width=500&height=50&color=00A1E0&vCenter=true" />
